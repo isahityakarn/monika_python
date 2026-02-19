@@ -6,4 +6,6 @@
 num=int(input("Enter a number: "))
 num2=int(input("Enter another number: ")) 
 total=num+num2
+sub=num-num2
 print("The total is:", total)
+print("The difference is:", sub)
